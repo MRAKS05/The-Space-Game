@@ -5,7 +5,7 @@ This Game is made by MR.AKS
 Python = https://cutt.ly/qWdKYPD
 
 # Install
-<pip install pygame>
+pip<pip install pygame>
 <pip install button>
   
 # Follow ME :
