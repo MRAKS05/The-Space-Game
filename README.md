@@ -11,6 +11,6 @@ pip install pygame
 pip install button
   
 # Follow ME :
-  Youtube = https://cutt.ly/IWdKmYl
-  tweeter = https://cutt.ly/cWdKRRR
-  discord = https://cutt.ly/6WdKPV9
+  [YouTube](https://www.youtube.com/@mr_aks_05)
+  [X](https://x.com/MRAKS92237275)
+  [Discord](https://discord.gg/dMQ7zKwKCf)
